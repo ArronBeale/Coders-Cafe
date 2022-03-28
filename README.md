@@ -1,2 +1,2 @@
-* Coders Cafe Walkthrough Project
-[Live Website](https://arronbeale.github.io/Coders-Cafe/)
+# Coders Cafe Walkthrough Project
+[Live Webpage](https://arronbeale.github.io/coders-cafe/)
